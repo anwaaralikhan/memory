@@ -1,4 +1,4 @@
-# memory
+# Memory
 
 ##### Explain On What Does Microprocessor Speed Depend?
 
