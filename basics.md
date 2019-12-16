@@ -2,7 +2,7 @@
 
 ##### Explain On What Does Microprocessor Speed Depend?
 
-The processing speed depends on DATA BUS WIDTH.
+The processing speed depends on `DATA BUS WIDTH`.
 Factors on which the Processor speed depends:
 
 - Processor clock speed
